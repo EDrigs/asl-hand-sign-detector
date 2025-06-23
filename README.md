@@ -25,12 +25,6 @@
 
 `data.pickle`: File to train a model on. Contains a dictionary with labels to train the model with.
 
-`archive`: Directory containing unsuccessful model building and data collection attempts. Models have the potential to be useful in other contexts, but here, they contained large **generalization gaps**.
-
-`data`: Dataset for training. Over 7,000 images containing ASL hand signs A-Y.
-
-`report`: Reports written during project development
-
 #### 🛠️ How to Use:
 1. Open the program in a code editor of your choice
 1. Go to `main.py`
