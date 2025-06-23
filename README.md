@@ -13,7 +13,7 @@
 
 `modify_data.py`: Script originally created by [computervisioneng](https://github.com/computervisioneng/sign-language-detector-python) to collect hand landmark information from image datasets of certain handsigns. Modified to fit the needs of my project. Converts data to a `.pickle` file
 
-`SignLanguageModel,py`: Class to load AI model and use it for sign prediction.
+`SignLanguageModel.py`: Class to load AI model and use it for sign prediction.
 
 `TrainingASLWebcamModel.ipynb`: Notebook utilized to train and save a model on information from the `.pickle` file.
 
